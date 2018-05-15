@@ -9,7 +9,9 @@ netfabb: Repairing
 Cura: Design Slicing and Obtaining G-Code
 
 ### Images
-
+![Coin Box along with Lid](https://github.com/sayhitosandy/Coin_Box-3D_Printing/blob/master/Images/IMG_20151107_210824.jpg)
+![Coin Box](https://github.com/sayhitosandy/Coin_Box-3D_Printing/blob/master/Images/IMG_20151117_180207.jpg)
+![Lid](https://github.com/sayhitosandy/Coin_Box-3D_Printing/blob/master/Images/IMG_20151117_180225.jpg)
 
 Team Amigoz
 

@@ -3,8 +3,14 @@ This is a 3D model of a coin box. This coin box is in the shape of misaligned he
 
 ### Technologies Used
 Blender and TinkerCAD: 3D Modelling and Repairing
+
 netfabb: Repairing
+
 Cura: Design Slicing and Obtaining G-Code
 
+### Images
+
+
 Team Amigoz
+
 (Sanidhya, Akhil, Tanmay, Shubhankar)

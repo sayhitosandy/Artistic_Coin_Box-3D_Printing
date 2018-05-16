@@ -1,5 +1,14 @@
+### About
+Our design showcases how we used a 3D modelling and repairing softwarer (TinkerCAD) and Slicing Sofware (Cura) to develop a:
+
+1. Complex yet Compact,
+2. Artistic yet Economical and
+3. Portable yet Sturdy
+
+coin box to help students like us to keep their change safe, at one place.
+
 ### Description
-This is a 3D model of a coin box. This coin box is in the shape of misaligned hexagons kept on top of one another, which gives it a cool shape. The coin box has a lid with opening to put coins. The lid has engravings of the team members as well.
+This coin box is in the shape of misaligned hexagons kept on top of one another, which gives it a cool shape. The coin box has a lid with opening to put coins. The lid has engravings of the team members as well.
 
 ### Technologies Used
 Blender and TinkerCAD: 3D Modelling and Repairing
